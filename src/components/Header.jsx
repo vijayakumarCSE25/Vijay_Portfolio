@@ -40,7 +40,7 @@ const Header = () => {
             <Rocket className="text-blue-500 w-6 h-6" />
           </div>
           <span className="text-xl font-bold tracking-tight">
-            &lt; <span className="text-blue-500">Vijay</span> /&gt;
+            &lt; <span className="text-blue-500">Vijayakumar</span> /&gt;
           </span>
         </motion.div>
 

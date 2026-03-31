@@ -43,21 +43,21 @@ const Projects = () => {
             github: "#"
         },
          {
-            title: "Recipe  Cost Calculator App",
-            desc: "The Recipe Cost Calculator App UI/UX is designed to make ingredient entry and cost tracking simple and fast. It helps users clearly see total recipe cost with an easy, organized, and user-friendly interface.",
-            tags: ["Figma", "UI/UX", "Mobile App"],
+            title: "Ganesh Energies Website",
+            desc: "Ganesh Energies provides efficient and sustainable energy solutions for modern needs. We focus on renewable power to reduce costs and support a greener future.",
+            tags: ["Figma", "UI/UX", "Dashboard"],
             image: Project_5,
-            link: "https://shorturl.at/mJnA1",
+            link: "https://www.figma.com/proto/4NoD8hWLFJhLDggF65DSpM/Ganesh--High-?node-id=2-6&p=f&viewport=4%2C93%2C0.12&t=ymnZ3leP8hh0oSD7-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2%3A6&page-id=0%3A1",
             github: "#"
         },
          {
-            title: "Event Management System",
-            desc: "The Event Management System UI/UX is designed to organize events smoothly with clear workflows and easy navigation. It helps users manage bookings, schedules, and attendees efficiently through a simple, professional interface.",
+            title: "Chef Anand Website",
+            desc: "Chef Anand delivers exceptional culinary experiences with a perfect blend of taste, creativity, and quality. Specializing in customized menus, he brings authentic flavors and memorable dining moments to every occasion.",
             tags: ["Figma", "UI/UX", "Dashboard"],
             image: Project_6,
-            link: "https://shorturl.at/OrXTR",
+            link: "https://www.figma.com/design/gtZACO5TvHMJ5Q2hOTnltm/Chef-Anand-Website?node-id=0-1&t=SAa5mV1Ao65IzrPm-1",
             github: "#"
-        }
+        },
     ];
 
     return (

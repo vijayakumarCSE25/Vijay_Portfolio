@@ -27,8 +27,8 @@ const Hero = () => {
                     </motion.div>
 
                     <h1 className="text-5xl md:text-7xl font-extrabold mb-6 leading-tight">
-                        Designing Intuitive <br />
-                        <span className="gradient-text">Digital Experiences That Convert</span>
+                        Designing Experiences <br />
+                        <span className="gradient-text">That Turn Users into Customers</span>
                     </h1>
 
                     <p className="text-lg text-slate-400 mb-8 max-w-lg">

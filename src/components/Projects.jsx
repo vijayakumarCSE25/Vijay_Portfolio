@@ -10,52 +10,52 @@ import Project_6 from '../assets/Project_6.png';
 
 const Projects = () => {
     const projects = [
+           {
+            title: "Deneeraj Website",
+            desc: "Redesigned the Deneeraj website to improve usability and user experience. Enhanced service discovery with a clean, modern interface and intuitive navigation. Focused on increasing engagement and supporting better lead generation.",
+            tags: ["Figma", "UI/UX", "Dashboard"],
+            image: Project_1,
+            link: "https://www.figma.com/proto/8SFyek6q7CkiOYNexWCTAV/Task?node-id=306-55&p=f&viewport=326%2C220%2C0.13&t=Xu9Y1XGhTWQV2DbL-1&scaling=min-zoom&content-scaling=fixed&page-id=306%3A54",
+            github: "#"
+        },
+         {
+            title: "Cable Tie Supply",
+            desc: "Redesigned the Cable Tie Supply e-commerce website to improve usability, product discovery, and the overall shopping experience. Focused on creating a modern, user-friendly that increases customer engagement and conversion rates.",
+            tags: ["Figma", "UI/UX", "Dashboard"],
+            image: Project_2,
+            link: "https://www.figma.com/proto/GRnC37KXrb1KtRIB55Be1d/CTS-Web?node-id=603-156&viewport=434%2C60%2C0.1&t=Tyw1eKYc2AZxOSxT-1&scaling=min-zoom&content-scaling=fixed&page-id=603%3A155",
+            github: "#"
+        },
+         {
+            title: "Hand Made Sign Website",
+            desc: "Designed a clean and visually appealing for a handmade sign business to showcase custom products and strengthen brand identity. Focused on intuitive navigation, engaging visuals to encourage customer inquiries and purchases.",
+            tags: ["Figma", "UI/UX", "Dashboard"],
+            image: Project_3,
+            link: "https://www.figma.com/proto/ZhPhUGDkaO3R725HioSA5m/HMS?node-id=459-164&viewport=446%2C60%2C0.09&t=9nv5uucOwYzHK58C-1&scaling=min-zoom&content-scaling=fixed&page-id=459%3A163",
+            github: "#"
+        },
         {
             title: "Eat Sure App",
             desc: "EatSure App’s UI/UX focuses on a clean, food-first layout with easy navigation, helping users order meals quickly and without confusion. The design emphasizes clear categories, minimal steps, and smooth checkout for a fast and pleasant food-ordering experience.",
             tags: ["Figma", "UI/UX", "Mobile App"],
-            image: Project_1,
-            link: "https://shorturl.at/EG0Ww",
+            image: Project_4,
+            link: "https://www.figma.com/proto/PsTz7C5sdrKEVZ33yg6pqJ/Food_Order_App?node-id=1-2&p=f&viewport=193%2C291%2C0.08&t=BgBMzFk7AFM1WhZK-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=52%3A105&page-id=0%3A1",
             github: "#"
         },
         {
             title: "Bus Ticket Booking App",
             desc: "The Bus Ticket Booking App UI/UX is designed for quick route search and simple seat selection with a clear, user-friendly flow. It ensures smooth booking, easy payment, and minimal user effort for a hassle-free travel experience.",
             tags: ["Figma", "Prototype", "UX Research"],
-            image: Project_2,
-            link: "https://shorturl.at/lwYJp",
+            image: Project_5,
+            link: "https://www.figma.com/proto/nCGTCSVrUvAia4cq9MRTCP/Ticket_Book?node-id=2-22&p=f&viewport=206%2C378%2C0.07&t=4gfvpZ0gEIuObjdn-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3&page-id=0%3A1",
             github: "#"
         },
         {
             title: "Chill Breeze App",
             desc: "Chill Breeze App UI/UX uses a calm, modern layout with intuitive controls to make browsing and booking relaxing and effortless. The design focuses on visual comfort, simple navigation, and a smooth user journey for a pleasant experience.",
             tags: ["Figma", "Prototype", "UX Research"],
-            image: Project_3,
-            link: "https://shorturl.at/eGc7Z",
-            github: "#"
-        },
-         {
-            title: "Spotify App",
-            desc: "Spotify App UI/UX is designed with a clean, dark interface that highlights content and makes music discovery easy. The experience focuses on smooth navigation, quick access to favorites, and effortless playback control.",
-            tags: ["Figma", "UI/UX", "Mobile App"],
-            image: Project_4,
-            link: "https://shorturl.at/gR0Vl",
-            github: "#"
-        },
-         {
-            title: "Ganesh Energies Website",
-            desc: "Ganesh Energies provides efficient and sustainable energy solutions for modern needs. We focus on renewable power to reduce costs and support a greener future.",
-            tags: ["Figma", "UI/UX", "Dashboard"],
-            image: Project_5,
-            link: "https://www.figma.com/proto/4NoD8hWLFJhLDggF65DSpM/Ganesh--High-?node-id=2-6&p=f&viewport=4%2C93%2C0.12&t=ymnZ3leP8hh0oSD7-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2%3A6&page-id=0%3A1",
-            github: "#"
-        },
-         {
-            title: "Chef Anand Website",
-            desc: "Chef Anand delivers exceptional culinary experiences with a perfect blend of taste, creativity, and quality. Specializing in customized menus, he brings authentic flavors and memorable dining moments to every occasion.",
-            tags: ["Figma", "UI/UX", "Dashboard"],
             image: Project_6,
-            link: "https://www.figma.com/design/gtZACO5TvHMJ5Q2hOTnltm/Chef-Anand-Website?node-id=0-1&t=SAa5mV1Ao65IzrPm-1",
+            link: "https://www.figma.com/proto/yhPg5zfVDGtNuV3iUdZpwo/Salon_App?node-id=9-42&p=f&viewport=62%2C339%2C0.05&t=mFXdmtIhfVHQrkSt-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4&page-id=0%3A1",
             github: "#"
         },
     ];

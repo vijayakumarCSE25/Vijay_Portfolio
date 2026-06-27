@@ -16,7 +16,7 @@ const About = () => {
         },
         {
             icon: <Globe2 className="text-emerald-400" />,
-            title: "Perundurai Based",
+            title: "Erode Based",
             desc: "Bringing local talent to the global tech ecosystem."
         }
     ];
@@ -45,7 +45,7 @@ const About = () => {
                         className="order-2 md:order-1"
                     >
                         <h2 className="text-4xl md:text-5xl font-bold mb-8 leading-tight">
-                            From <span className="text-blue-500">Perundurai</span> to the <br />
+                            From <span className="text-blue-500">Erode</span> to the <br />
                             Corporate World
                         </h2>
                         <div className="space-y-6 text-slate-400 text-lg leading-relaxed">
@@ -95,7 +95,7 @@ const About = () => {
                                             <div className="text-xs uppercase font-bold text-blue-100">Graduating Year</div>
                                         </div>
                                         <div className="h-32 rounded-2xl bg-white/5 border border-white/10 p-6 flex flex-col justify-center">
-                                            <div className="text-2xl font-bold">3+</div>
+                                            <div className="text-2xl font-bold">5+</div>
                                             <div className="text-xs uppercase font-bold text-slate-500">Global Projects</div>
                                         </div>
                                     </div>
